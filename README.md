@@ -6,7 +6,7 @@ Hi, Amanda! I’m a front end developer with a knack for creating interesting, s
 <!-- - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**. -->
 - :speech_balloon: Ask me about **Typescript**, and **React**.
 <!-- - :mailbox: How to reach me: [silentbob@example.com](silentbob@example.com) -->
-- :zap: Fun fact: !
+- :zap: Fun fact: ...thinking about it :thinking:
 
 <!-- ## :books: My Writing & Content
 
