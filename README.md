@@ -1,4 +1,4 @@
-## About Me :smile:
+## About Me :blush:
 
 Hi, Amanda! I’m a front end developer with a knack for creating interesting, scalable applications. I’m always excited to learn new technologies and collaborate on exciting projects.
 
