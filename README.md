@@ -1,6 +1,6 @@
 ## About Me :smile:
 
-Hi, I’m Silent Bob! I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
+Hi, Amanda! I’m a front end developer with a knack for creating interesting, scalable applications. I’m always excited to learn new technologies and collaborate on exciting projects.
 
 - :seedling: I’m currently exploring **Tailwind** and **Vue**.
 <!-- - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**. -->
