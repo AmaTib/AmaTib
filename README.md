@@ -1,6 +1,6 @@
 ## About Me :blush:
 
-Hi, Amanda! I’m a front end developer with a knack for creating user friendly, scalable applications. I’m always excited to learn new technologies and collaborate on exciting projects.
+Hi, Amanda! I’m a frontend developer with a knack for creating user friendly, scalable applications. I’m always excited to learn new technologies and collaborate on exciting projects.
 
 - :compass: I’m currently exploring **Tailwind** and **Vue**.
 <!-- - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**. -->
